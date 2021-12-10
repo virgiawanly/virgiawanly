@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋 My name is Virgiawan Listiyandi
 
-<!--
-**virgiawanly/virgiawanly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at SMK Negeri 1 Cianjur
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal project
+- 🌱 I’m currently learning React, Laravel, and many more
+- 📫 Contact me on <a href="https://www.instagram.com/virgiawanly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
+- 😄 My friends call me Igi
+- ⚡ I like playing <a href="https://playvalorant.com/">Valorant</a>
+
+### My Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgiawanly&show_icons=true)
+
+### Most used language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgiawanly)](https://github.com/virgiawanly)
