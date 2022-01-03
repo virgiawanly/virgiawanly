@@ -5,7 +5,7 @@ I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
 ### About me
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning `React`, `NodeJS`, and `MongoDB`
+- 🌱 I’m currently learning `React Native`, `NodeJS`, and `MongoDB`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawanly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - 😄 You can call me Igi
 
