@@ -17,7 +17,7 @@ I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Beginner-green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blueviolet)
-![Tailwind](https://img.shields.io/badge/Tailwind-Intermediate-9cf)
+![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-9cf)
 ![Flutter](https://img.shields.io/badge/Flutter-Beginner-blue)
 
 ### My GitHub Stats
