@@ -5,7 +5,7 @@ I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
 ### About me
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning `React Native` and `Flutter`
+- 🌱 I’m currently learning `Mobile Development`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawanly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - 😄 You can call me Igi
 
@@ -19,9 +19,3 @@ I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blueviolet)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-9cf)
 ![Flutter](https://img.shields.io/badge/Flutter-Beginner-blue)
-
-### My GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=virgiawanly&show_icons=true&theme=tokyonight&locale=en" alt="virgiawanly" /></p>
-
-### Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virgiawanly&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="virgiawanly" /></p>
