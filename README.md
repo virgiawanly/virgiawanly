@@ -5,8 +5,8 @@ I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
 ### About me
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning `Mobile Development`
-- 📫 Contact me on <a href="https://www.instagram.com/virgiawanly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
+- 🌱 I’m currently learning `Flutter`
+- 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - 😄 You can call me Igi
 
 <br>
