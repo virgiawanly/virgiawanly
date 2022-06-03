@@ -1,11 +1,11 @@
-## Hi there 👋 My name is Virgiawan
+## Hi there 👋 My name is Virgiawan Listiyandi
 
-I'm a student at SMK Negeri 1 Cianjur, majoring in Software Engineering
+Fullstack Developer | UI Designer | Lifetime Learner
 
 ### About me
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning `Flutter`
+- 🌱 I’m currently learning `Flutter & React`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - 😄 You can call me Igi
 
