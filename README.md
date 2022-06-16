@@ -5,7 +5,7 @@ Fullstack Developer | UI Designer | Lifetime Learner
 ### About me
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning `Flutter & React`
+- 🌱 I’m currently learning `Flutter, React & Docker`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - 😄 You can call me Igi
 
