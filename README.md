@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Virgiawan Listiyandi
 
-Fullstack Developer | UI Designer | Lifetime Learner
+Fullstack Developer | Lifetime Learner
 
 ### About me
 
