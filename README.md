@@ -4,7 +4,7 @@ Fullstack Developer | Lifetime Learner
 
 ### About me
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently work with Madtive Studio as a Junior Fullstack Developer
 - 🌱 I’m currently learning mobile development
 - 🎓 Currently studying at Suryakancana University, majoring in Informatics Engineering
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
