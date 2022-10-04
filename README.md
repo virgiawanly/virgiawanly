@@ -1,13 +1,13 @@
-## Hi there 👋 My name is Virgiawan Listiyandi
+## Hi there!👋 My name is Virgiawan Listiyandi
 
 Fullstack Developer | Lifetime Learner
 
 ### About me
 
-- 🔭 I’m currently work with Madtive Studio as a Junior Fullstack Developer
-- 🌱 I’m currently learning mobile development
-- 🎓 Currently studying at Suryakancana University, majoring in Informatics Engineering
-- 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
+- 🚀 I’m currently work with Madtive Studio as a Junior Fullstack Developer
+- 🌱 I'm currently learning Mobile Development
+- 🎓 I'm currently study at Suryakancana University, majoring in Informatics Engineering
+- 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> | <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a> | <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 
 <br>
 
