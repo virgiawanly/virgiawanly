@@ -6,8 +6,8 @@ Fullstack Developer | Tech Enthusiast | Lifetime Learner
 
 - 🚀 I’m currently work with <a href="https://www.madtive.com">Madtive Studio</a> as a Junior Fullstack Developer
 - 🌱 I'm currently learning Mobile Development
-- 🎓 I'm currently study at Suryakancana University, majoring in Informatics Engineering
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> | <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a> | <a href="https://www.facebook.com/virgiawanly">Facebook</a>
+- 😀 Pronouns: You can call me Igi :)
 
 <br>
 
