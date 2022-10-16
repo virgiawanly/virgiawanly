@@ -1,10 +1,10 @@
-## Hi there!👋 My name is Virgiawan Listiyandi
+# Hi there!👋 My name is Virgiawan Listiyandi
 
-Fullstack Developer | IT Enthusiast | Lifetime Learner
+Fullstack Developer | Tech Enthusiast | Lifetime Learner
 
 ### About me
 
-- 🚀 I’m currently work with Madtive Studio as a Junior Fullstack Developer
+- 🚀 I’m currently work with <a href="https://www.madtive.com">Madtive Studio</a> as a Junior Fullstack Developer
 - 🌱 I'm currently learning Mobile Development
 - 🎓 I'm currently study at Suryakancana University, majoring in Informatics Engineering
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> | <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a> | <a href="https://www.facebook.com/virgiawanly">Facebook</a>
@@ -26,6 +26,8 @@ Fullstack Developer | IT Enthusiast | Lifetime Learner
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virgiawanly&layout=compact)](https://github.com/virgiawanly)
+### Github Performance Overall
+[![Virgiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=virgiawanly)](https://github.com/virgiawanly)
 
+### Weekly Coding Stats
 [![Virgiawan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=virgiawanly)](https://wakatime.com/@virgiawanly)
