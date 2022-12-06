@@ -4,10 +4,10 @@ Full Stack Developer | Lifetime Learner
 
 ### About me
 
-- 🚀 I’m currently work with <a href="https://www.madtive.com">Madtive Studio</a> as a Junior Full Stack Developer
-- 🌱 I'm currently learning Frontend Development
+- 🚀 I’m currently work with <a href="https://www.madtive.com">Madtive Studio</a> as a Junior Frontend Developer
+- 🌱 I'm currently learning `NodeJS` and `Docker`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a> | <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a> | <a href="https://www.facebook.com/virgiawanly">Facebook</a>
-- ☕ Love Coding and Coffee
+- ☕ Love Explore, Coding and Coffee
 
 <br>
 
