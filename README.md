@@ -57,13 +57,5 @@ Programming Enthusiast | Lifetime Learner
 
 <hr>
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgiawanly&layout=compact&theme=radical">
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=virgiawanly&theme=radical">
-    </td>
-  </tr>
-</table>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgiawanly&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=virgiawanly&theme=radical">
