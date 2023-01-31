@@ -4,9 +4,9 @@ Programming Enthusiast | Lifetime Learner
 
 ### About me
 
-- 🚀 I’m currently work with <a href="https://www.madtive.com">Madtive Studio</a> as a Frontend Developer
-- 🌱 I'm currently learning `Mobile Development`
-- 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a>, <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a>, <a href="https://www.facebook.com/virgiawanly">Facebook</a>
+- 🚀 Fullstack Developer
+- 🌱 Currently learning `Mobile Development`
+- 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a>, <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a>, or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - ☕ Love Explore, Coding and Coffee
 
 <hr>
