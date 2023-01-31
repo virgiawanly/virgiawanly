@@ -1,4 +1,4 @@
-# Hi there!👋 My name is Virgiawan Listiyandi
+# Hi there!👋 I'm Virgiawan Listiyandi
 
 Programming Enthusiast | Lifetime Learner
 
