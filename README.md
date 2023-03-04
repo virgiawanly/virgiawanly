@@ -5,7 +5,7 @@ Programming Enthusiast | Lifetime Learner
 ### About me
 
 - 🚀 Fullstack Developer
-- 🌱 Currently learning `Mobile Development`
+- 🌱 Currently learning `Microservices`
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a>, <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a>, or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - ☕ Love Explore, Coding and Coffee
 
