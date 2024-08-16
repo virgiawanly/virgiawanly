@@ -5,7 +5,7 @@ Programming & Design Enthusiast | Lifetime Learner
 ### About me
 
 - 🚀 Software Engineer
-- 🌱 Currently learning `Cloud Programming`
+- 🌱 Currently learning about Cloud & DevOps
 - 📫 Contact me on <a href="https://www.instagram.com/virgiawan.ly">Instagram</a>, <a href="https://www.linkedin.com/in/virgiawanly/">LinkedIn</a>, or <a href="https://www.facebook.com/virgiawanly">Facebook</a>
 - ☕ Love Explore, Coding and Coffee
 
