@@ -7,7 +7,7 @@ Additionally, I have a strong interest in graphic design 🎨, allowing me to en
 
 ### 🛠 My Tech Stack
 
-- **Languages:** JavaScript, TypeScript, PHP, Java
+- **Languages:** JavaScript, TypeScript, PHP, Golang
 - **Frontend:** React, Angular, Vue.js, Tailwind CSS
 - **Backend:** Laravel, Express.js, Nest.js, Codeigniter
 - **Mobile:** React Native, Ionic
