@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="assets/github-logo.gif" />
+</div>
+
 ## 👋 Hello, I’m Virgiawan Listiyandi!
 
 I am a **Full Stack Developer** skilled in turning business needs into functional systems. I have experience working with cross-functional teams and am proficient in various technologies, including **Angular, React, Vue, Laravel, NodeJS and Ionic** which enable me to handle both frontend and backend development.
