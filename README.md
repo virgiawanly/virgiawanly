@@ -32,3 +32,7 @@ Additionally, I have a strong interest in graphic design 🎨, allowing me to en
 I love collaborating with others on innovative projects and expanding my skill set. Feel free to reach out if you'd like to discuss technology, development strategies, or just say hi! 😊
 - **Linkedin:** [https://linkedin.com/in/virgiawanly](https://linkedin.com/in/virgiawanly)
 - **Email:** [listiyandiv@gmail.com](mailto:listiyandiv@gmail.com)
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=virgiawanly)
