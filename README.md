@@ -4,7 +4,7 @@
 
 ## 👋 Hello, I’m Virgiawan Listiyandi!
 
-I am a **Full Stack Developer** skilled in turning business needs into functional systems. I have experience working with cross-functional teams and am proficient in various technologies, including **Angular, React, Vue, Laravel, NodeJS and Ionic** which enable me to handle both frontend and backend development.
+I am a **Full Stack Developer** skilled in turning business needs into functional systems. I have experience working with cross-functional teams and am proficient in various technologies, including **Angular, React, Vue, Laravel, NodeJS and Flutter** which enable me to handle both frontend and backend development.
 
 Additionally, I have a strong interest in graphic design 🎨, allowing me to enhance user experiences.
 
