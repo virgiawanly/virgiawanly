@@ -9,7 +9,7 @@ I am a **Full Stack Developer** skilled in turning business needs into functiona
 Additionally, I have a strong interest in graphic design 🎨, allowing me to enhance user experiences.
 
 
-### 🛠 My Tech Stack & Tools
+### 🛠 My Main Stack & Tools
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
