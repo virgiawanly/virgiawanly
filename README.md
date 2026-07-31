@@ -27,12 +27,16 @@ Additionally, I have a strong interest in graphic design 🎨, allowing me to en
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🌐 Let’s Connect
-
-I love collaborating with others on innovative projects and expanding my skill set. Feel free to reach out if you'd like to discuss technology, development strategies, or just say hi! 😊
-- **Linkedin:** [https://linkedin.com/in/virgiawanly](https://linkedin.com/in/virgiawanly)
-- **Email:** [listiyandiv@gmail.com](mailto:listiyandiv@gmail.com)
-
 <br />
 
 ![](https://komarev.com/ghpvc/?username=virgiawanly)
+
+<br />
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
+  </picture>
+</p>
